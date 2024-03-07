@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8U5E04Cbjr2JjHvpNPXCs9rUj8IBDjsKzCXtDY3ClnEVXk77fMgAmb0wgJ6u7O/JJxbkV/2zLTyGodvTQZ6HlA==",
+  "dgSpecHash": "AnB92u0F4cDx8uFocZW+i9nVkxug35rNhIjK0jZbiaH4poRGkM7bfSUCoxgAn7Nerd/KG28ZuMOSqyjAVrcGXQ==",
   "success": true,
   "projectFilePath": "/Users/retbleed/Projects/UDapp/UDapp/UDapp.csproj",
   "expectedPackageFiles": [
+    "/Users/retbleed/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -24,6 +27,19 @@
     "/Users/retbleed/.nuget/packages/microsoft.maui.graphics/8.0.6/microsoft.maui.graphics.8.0.6.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/microsoft.maui.resizetizer/8.0.6/microsoft.maui.resizetizer.8.0.6.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/microsoft.net.illink.tasks/8.0.2/microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/mongodb.bson/2.24.0/mongodb.bson.2.24.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/mongodb.driver/2.24.0/mongodb.driver.2.24.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/mongodb.driver.core/2.24.0/mongodb.driver.core.2.24.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/mongodb.libmongocrypt/1.8.2/mongodb.libmongocrypt.1.8.2.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/xamarin.android.glide/4.15.1.2/xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/xamarin.android.glide.annotations/4.15.1.2/xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/xamarin.android.glide.disklrucache/4.15.1.2/xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",
@@ -106,7 +122,8 @@
     "/Users/retbleed/.nuget/packages/xamarin.kotlin.stdlib.jdk7/1.9.0.1/xamarin.kotlin.stdlib.jdk7.1.9.0.1.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/xamarin.kotlin.stdlib.jdk8/1.9.0.1/xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "/Users/retbleed/.nuget/packages/xamarin.kotlinx.coroutines.android/1.7.2.1/xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
-    "/Users/retbleed/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.7.2.1/xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512"
+    "/Users/retbleed/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.7.2.1/xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
+    "/Users/retbleed/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }
